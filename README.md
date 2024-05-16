@@ -1,2 +1,2 @@
 # Trilha-java-basico
-Repositório criado para armazenar exemplos de estudo sobre Java básicoda DIO 2024
+Repositório criado para armazenar exemplos de estudo sobre Java básicoDIO 2024
